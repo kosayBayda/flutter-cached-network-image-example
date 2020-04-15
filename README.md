@@ -1,4 +1,4 @@
-# cached_network_image_example
+# cached network image example
 
 -  The cached_network_image package allows you to use: 
     - widget as a place holder
