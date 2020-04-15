@@ -6,6 +6,6 @@
 
 ## References
 
-- [cached_network_image documentation](https://flutter.dev/docs/get-started/codelab)
-- [cached_network_image example from flutter.dev cookbook](https://flutter.dev/docs/cookbook)
+- [cached_network_image documentation](https://pub.dev/packages/cached_network_image)
+- [cached_network_image example from flutter.dev cookbook](https://flutter.dev/docs/cookbook/images/cached-images)
 
